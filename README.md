@@ -34,7 +34,7 @@ Or with optional `name` parameter.
 
 
 ## Modify the code
-You can add/modify/delete all of the provided code as much as you wish to help you fulfull the requirements.
+You can add/modify/delete all of the provided code as much as you wish to help you fulfill the requirements.
 
 Changes to the code will be automatically reloaded.
 
