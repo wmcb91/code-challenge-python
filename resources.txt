@@ -1,0 +1,16 @@
+https://developer.brandfolder.com/#assets
+https://brandfolder.com/code-challenge-python
+
+Logical Entity Diagram
+https://cdn.brandfolder.io/T3FU7WTG/as/pxq808-vzzg8-f3v1q7/Brandfolder_Data_Entity_UML.png
+
+Brandfolder key:
+pxp6em-11q2fk-1t0s8z
+
+"Images" section key:
+pxp6em-11q2fk-6cq2mv
+
+user token:
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2tleSI6InB4cTdsaS1nNnBpbDQtNnBmZjR1Iiwic3VwZXJ1c2VyIjpmYWxzZX0.A_JyHhzmj4Bm64JeaIAoLOm1c81MnxsXO_UpzYRdGxU
+
+
