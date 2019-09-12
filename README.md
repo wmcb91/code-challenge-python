@@ -26,11 +26,11 @@
 `flask run`
 
 ## View in browser
-[http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+[http://127.0.0.1:5000/hello/](http://127.0.0.1:5000/hello/)
 
 Or with optional `name` parameter.
 
-[http://localhost:5000/?name=Brandfolder](http://localhost:5000/?name=Brandfolder)
+[http://localhost:5000/hello/?name=Brandfolder](http://localhost:5000/hello/?name=Brandfolder)
 
 
 ## Modify the code
