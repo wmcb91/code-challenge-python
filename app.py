@@ -10,8 +10,8 @@ def hello():
     return f'Hello, {escape(name)}!'
 
 
-@app.route('/brandfolders/<brandfolder_slug>')
-def list_sections(brandfolder_slug, methods=['GET']):
+@app.route('/brandfolders/<brandfolder_slug>', methods=['GET'])
+def list_sections(brandfolder_slug):
     api_key = request.headers.get('x-api-key', '')
     url = 'https://brandfolder.com/api/v4/brandfolders'
     headers = {'Authorization': f'Bearer {api_key}'}

@@ -1,12 +1,12 @@
 Brandfolder slug: code-challenge-python
 
-Section name: Logos
+Section name: Images
 Asset name: Primary Brandfolder Logo
 Attachment name: brandfolder-logo.ai
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pfbfqp-bctcug-8gmetc/brandfolder_typeface_rgb.ai
 Tags: logo, brandfolder
 
-Section name: Documents
+Section name: Images
 Asset name: State of DAM Infographic
 Attachment name:
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pfoltx-424rcg-es8ehn/State_of_DAM_Infographic.pdf
@@ -33,18 +33,18 @@ Asset name: Primary Brandfolder Logo
 Attachment name: brandfolder_typeface.jpg
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pwhqta-d7b9eg-c57eyc/brandfolder_typeface.jpg
 
-Section name: Documents
+Section name: Images
 Asset name: Brandfolder Presentation
 Attachment name: Brandfolder_Platform_Overview.pdf
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pfogkk-83ovmw-39wncn/Brandfolder_Platform_Overview.pdf
 
-Section name: Logos
+Section name: Images
 Asset name: Primary Brandfolder Logo
 Attachment name:
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pfbd7b-1yrhvk-fp2a98/brandfolder-logo.svg
 Tags: brandfolder, typeface
 
-Section name: Documents
+Section name: Images
 Asset name: Brandfolder Presentation
 Attachment name: brandfolder_summary_deck.pdf
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/obo03o-bvsjr4-132u7e/brandfolder_summary_deck.pdf
