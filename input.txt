@@ -29,6 +29,7 @@ Attachment name: Features_Search.jpg
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/ofd529-8hmhi8-45826p/Features_Search.jpg
 Tags:
 
+Section name: Images
 Asset name: Primary Brandfolder Logo
 Attachment name: brandfolder_typeface.jpg
 Attachment URL: https://cdn.brandfolder.io/YUHW9ZNT/at/pwhqta-d7b9eg-c57eyc/brandfolder_typeface.jpg
